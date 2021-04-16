@@ -1,4 +1,4 @@
-﻿<?php 
+<?php 
 if(isset($_GET['n'])){
 $name = $_GET['n'];
 }
